@@ -59,7 +59,7 @@ vite.config.js
 
 | Product List (Desktop) | Product Details (Mobile) |
 |------------------------|--------------------------|
-| ![Product List](src/assets/window.png) | ![Product Details](src/assets/mobile.svg) |
+| ![Product List](src/assets/window.png) | ![Product Details](src/assets/mobile.png) |
 
 ## API
 
